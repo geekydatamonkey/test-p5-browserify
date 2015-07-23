@@ -1,7 +1,8 @@
 # test-p5-browserify
 
-1. Install browserify globally: `npm install -g browserify`
-2. Run: `browserify main.js -o bundle.js`
+1. `npm install` to install p5.js
+2. Install browserify globally: `npm install -g browserify`
+3. Run: `browserify main.js -o bundle.js`
 
 Observe errors like:
 
